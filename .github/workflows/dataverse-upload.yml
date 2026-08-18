@@ -11,5 +11,5 @@ jobs:
         with:
           DATAVERSE_TOKEN: ${{secrets.DATAVERSE_TOKEN}}
           DATAVERSE_SERVER: https://dataverse.harvard.edu
-          DATAVERSE_DATASET_DOI: doi:10.70122/FK2/LVUA
+          DATAVERSE_DATASET_DOI: https://doi.org/10.7910/DVN/J9L5XR
 	GITHUB_DIR: Data
